@@ -44,4 +44,5 @@ print(str(godsBought) + ' God Killers at $999999 each: $ ' + str(godTotal) + '0'
 print('6% tax: $ ' + str(tax))
 print('---------\n')
 print('Total: $ ' + str(receiptTotal))
-print('***************************************')
+print('***************************************\n')\
+print('Thank you for using the Receipt Calculator for my Coffee and Muffin and Donut and Power of God Shop!')
