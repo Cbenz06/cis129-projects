@@ -12,7 +12,7 @@ NBR_OF_DAYS = 8
 PAYOUT_PER_BOTTLE = .1
 # Step 2: Loop to run program again
 while counter <= NBR_OF_DAYS:
-    todayBottles = int(input('Input number of bottles returned for day #' + str(counter)))
+    todayBottles = int(input('Input number of bottles returned for day #' + str(counter) + ' '))
     totalBottles += todayBottles
     counter += 1
 
